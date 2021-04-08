@@ -1,0 +1,18 @@
+body {
+    background-image: url(../imagens/fundo3.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: 'Vibur', cursive;
+    font-size: 60px;
+    text-align: center;
+    color: cadetblue;
+    text-shadow: 6px 6px 6px aliceblue;
+}
+
+h2 {
+    margin-left: 50px;
+    font-family: 'Walter Turncoat', cursive;
+}

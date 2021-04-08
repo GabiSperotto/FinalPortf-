@@ -1,0 +1,25 @@
+#titulo {
+    font-family: 'Vibur', cursive;
+    font-size: 90px;
+    text-align: center;
+    color: cadetblue;
+    text-shadow: 6px 6px 6px aliceblue;
+}
+
+body {
+    background-image: url(../imagens/fundo3.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    text-align: left;
+    font-family: 'Walter Turncoat', cursive;
+    margin-left: 50px;
+}
+
+#if {
+    width: 200px;
+    height: 150px;
+
+}
